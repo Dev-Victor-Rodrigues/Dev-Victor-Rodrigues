@@ -1,6 +1,7 @@
 ### Ola meu nome é Victor Rodrigues (Miguel) ☀️
 - Um Pouco Sobre Minha Pessoa
 - Futuro Desenvolvedor Full stack
+- 
 __Sou introvertido, Desde Pequeno Gostava De Programação, Dedicado__
 
 
